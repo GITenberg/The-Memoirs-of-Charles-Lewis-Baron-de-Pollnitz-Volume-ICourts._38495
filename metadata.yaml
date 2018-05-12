@@ -1,0 +1,36 @@
+_repo: The-Memoirs-of-Charles-Lewis-Baron-de-Pollnitz-Volume-ICourts._38495
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pöllnitz, Karl Ludwig, Freiherr von
+    aliases:
+    - Pöllnitz, Charles-Louis, baron de
+    - Pollnitz, Karl Ludwig, Freiherr von
+    - Von Pöllnitz, Karl Ludwig, Freiherr
+    - Poellnitz, Carl Ludwig von
+    birthdate: 1692
+    deathdate: 1775
+    gutenberg_agent_id: '39497'
+    url: http://www.gutenberg.org/2009/agents/39497
+description: ''
+gutenberg_issued: '2012-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcsh 'Saxony (Germany) -- Court and courtiers'
+- !lcc 'D'
+title: "The Memoirs of Charles-Lewis, Baron de Pollnitz, Volume I\r\nBeing the Observations\
+  \ He Made in His Late Travels from Prussia thro' Germany, Italy, France, Flanders,\
+  \ Holland, England, &C. in Letters to His Friend. Discovering Not Only the Present\
+  \ State of the Chief Cities and Towns; but the Characters of the Principal Persons\
+  \ at the Several Courts."
+url: http://www.gutenberg.org/ebooks/38495
